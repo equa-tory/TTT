@@ -1,0 +1,14 @@
+D:\Files_D\c#\TTT\bin\Debug\net8.0\TTT.exe
+D:\Files_D\c#\TTT\bin\Debug\net8.0\TTT.deps.json
+D:\Files_D\c#\TTT\bin\Debug\net8.0\TTT.runtimeconfig.json
+D:\Files_D\c#\TTT\bin\Debug\net8.0\TTT.dll
+D:\Files_D\c#\TTT\bin\Debug\net8.0\TTT.pdb
+D:\Files_D\c#\TTT\obj\Debug\net8.0\TTT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files_D\c#\TTT\obj\Debug\net8.0\TTT.AssemblyInfoInputs.cache
+D:\Files_D\c#\TTT\obj\Debug\net8.0\TTT.AssemblyInfo.cs
+D:\Files_D\c#\TTT\obj\Debug\net8.0\TTT.csproj.CoreCompileInputs.cache
+D:\Files_D\c#\TTT\obj\Debug\net8.0\TTT.dll
+D:\Files_D\c#\TTT\obj\Debug\net8.0\refint\TTT.dll
+D:\Files_D\c#\TTT\obj\Debug\net8.0\TTT.pdb
+D:\Files_D\c#\TTT\obj\Debug\net8.0\TTT.genruntimeconfig.cache
+D:\Files_D\c#\TTT\obj\Debug\net8.0\ref\TTT.dll
