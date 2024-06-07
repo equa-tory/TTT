@@ -12,3 +12,4 @@ D:\Files_D\c#\TTT\obj\Debug\net8.0\refint\TTT.dll
 D:\Files_D\c#\TTT\obj\Debug\net8.0\TTT.pdb
 D:\Files_D\c#\TTT\obj\Debug\net8.0\TTT.genruntimeconfig.cache
 D:\Files_D\c#\TTT\obj\Debug\net8.0\ref\TTT.dll
+D:\Files_D\c#\TTT\obj\Debug\net8.0\TTT.sourcelink.json

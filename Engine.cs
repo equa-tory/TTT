@@ -51,9 +51,9 @@ public class Engine
                 
                 ConsoleColor color = ConsoleColor.White;
                 if(render[i,j].symbol == 'x')
-                    color = (render[i,j].time==2) ? ConsoleColor.Magenta : ConsoleColor.Red;
+                    color = (render[i,j].time<=2) ? ConsoleColor.Yellow : ConsoleColor.Red;
                 else if(render[i,j].symbol == 'o') 
-                    color = (render[i,j].time==2) ? ConsoleColor.DarkBlue : ConsoleColor.Blue;
+                    color = (render[i,j].time<=2) ? ConsoleColor.Yellow : ConsoleColor.Blue;
                 Console.ForegroundColor = color;
                 Console.Write(render[i,j].symbol+" ");
             }
